@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Git\n";
+    std::cout << "Hotdog\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
